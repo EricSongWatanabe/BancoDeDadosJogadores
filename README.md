@@ -35,13 +35,15 @@ PostgreSQL:
     clube VARCHAR(100),
     posicao VARCHAR(50)
 );
+- Faça as açterações necessárias no código (alterar link do database, etc.).
 
 MongoDB:
 - Tenha o servidor MongoDB rodando localmente ou em nuvem.
 - Crie uma coleção chamada atributos.
+- Faça as alterações necessárias no código (alterar o db, user, etc.).
 
 
 Neo4j:
 - Tenha o Neo4j Desktop ou Aura ativo.
 - Verifique as credenciais (URI, USER, PASSWORD)
-
+- Faça as alterações necessárias no código.
