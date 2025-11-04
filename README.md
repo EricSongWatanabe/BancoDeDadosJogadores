@@ -1,13 +1,13 @@
-# 🗃️ BancoDeDadosJogadores
+#  BancoDeDadosJogadores
 
-## 👥 Integrantes do Grupo
+##  Integrantes do Grupo
 
 - **Eric Song Watanabe** — RA: 22.125.086-3  
 - **Victor Pimentel Lario** — RA: 22.125.064-0
 
 ---
 
-## 📖 Descrição do Projeto
+##  Descrição do Projeto
 
 Este projeto tem como objetivo **integrar três diferentes bancos de dados** (PostgreSQL, MongoDB e Neo4j) para armazenar informações de jogadores de futebol, além de disponibilizar uma **interface gráfica (Tkinter)** para consulta dos dados.
 
@@ -19,7 +19,7 @@ O sistema é dividido em duas principais partes:
 
 ---
 
-## 🚀 Passo a Passo para Executar o Projeto
+##  Passo a Passo para Executar o Projeto
 
 ### 1. Instalar Dependências
 pip install fastapi uvicorn pymongo pydantic requests psycopg2 neo4j faker tkinter
