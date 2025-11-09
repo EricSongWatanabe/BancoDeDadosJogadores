@@ -47,3 +47,19 @@ Neo4j:
 - Tenha o Neo4j Desktop ou Aura ativo.
 - Verifique as credenciais (URI, USER, PASSWORD)
 - Faça as alterações necessárias no código.
+
+
+### 3. Explicação do Tema Escolhido
+Escolhemos o tema pois o grupo ja tinha usado o mesmo tema no semestre passado em outros projetos, além dos integrantes adorarem o jogo FIFA, oque motivou ainda mais para seguir com a escolha.
+
+
+### 4. Justificativa para Cada Banco Usado
+
+PostgreSQL:
+Escolhido para armazenar dados estruturados e relacionais, garantindo integridade e consistência. É ideal para informações fixas e com dependências claras entre si.
+
+MongoDB:
+Selecionado para armazenar dados semiestruturados e flexíveis, como estatísticas dos jogadores, que podem variar em tipo e quantidade sem a necessidade de alterar o esquema.
+
+Neo4j:
+Adotado por sua capacidade de representar relações complexas entre entidades. Permite consultas eficientes sobre conexões, como jogadores que atuaram juntos ou que pertencem ao mesmo clube
