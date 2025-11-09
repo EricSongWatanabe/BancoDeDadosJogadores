@@ -1,0 +1,7 @@
+pip install fastapi uvicorn pymongo pydantic requests psycopg2 neo4j faker time tkinter sqlalchemy
+instalar pgadmin 4 no computador
+-- abrir terminal --
+cd <diretorio do projeto>
+python -m uvicorn s2:app --reload --port 8000
+-- voltar para o terminal no vs code --
+rodar s1.py
