@@ -63,3 +63,15 @@ Selecionado para armazenar dados semiestruturados e flexíveis, como estatístic
 
 Neo4j:
 Adotado por sua capacidade de representar relações complexas entre entidades. Permite consultas eficientes sobre conexões, como jogadores que atuaram juntos ou que pertencem ao mesmo clube
+
+
+### 5. Definição de Como o S2 Será Implementado
+
+O arquivo s2.py será responsável pela API do sistema, desenvolvida com o framework FastAPI.
+Sua função é fazer a comunicação entre a interface Tkinter (s1.py) e os três bancos de dados.
+
+Principais Funcionalidades:
+
+Receber requisições HTTP (POST e GET) vindas do s1.py.
+
+Inserir e consultar dados nos bancos PostgreSQL, MongoDB e Neo4j.
